@@ -117,10 +117,12 @@ We have divided our tasks into 5 section. In each section there are multiple sub
  
 ### 1. Weekly
   1. Online Meeting
+  
   Day | Time
   --- | ----
   Wednesday | 11:00 PM
-  No Meeting While Eid/Puja
+  
+  ⦿ No Meeting While Eid/Puja
   
 ### 2. Monthly
   1. অফলাইন মিটিং (প্রতি মাসের ৩০ বা ৩১ তারিখ, ফেব্রুয়ারির ২৮ বা ২৯ তারিখ।) 
