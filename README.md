@@ -128,12 +128,76 @@ February | Activity
 15 | Computer Science - What, How, Why
 20 | Intra Club Competition 
 
+March | Activity
+--------------- | --------
+1 | Individual Contest
+10 | Monthly Meeting
+15 | Shortlist 20 Competitors
+20 | Batch Tour
 
+April | Activity
+--------------- | --------
+1 | Training Session for Contest
+5 | Batch Performance
+10 | Monthly Meeting
+15 | Guidline for Career
+20 | Magazine
 
- 
+May | Activity
+--------------- | --------
+1 | Build 5 Teams for Contest
+10 | Monthly Meeting
+15 | Club Project
+
+June | Activity
+--------------- | --------
+1 | Intra University Programming Contest
+10 | Monthly Meeting
+15 | CV Collecting Event
+
+July | Activity
+--------------- | --------
+1 | Opening Registration Form for Contest
+10 | Monthly Meeting
+15 | Guest Speaker
+20 | Opensource
+
+August | Activity
+--------------- | --------
+1 | Shortlist 50 Competitors for Contest
+10 | Monthly Meeting
+15 | Batch Performance
+20 | Computer Science - What, How, Why
+25 | Workshop
+
+September | Activity
+--------------- | --------
+1 | Individual Contest
+10 | Monthly Meeting
+15 | Shortlist 20 Competitors 
+20 | Guideline for Career
+
+October | Activity
+--------------- | --------
+1 | Training Session for Contest
+10 | Monthly Meeting
+15 | Techtober
+
+November | Activity
+--------------- | --------
+1 | Build 5 Teams for Contest
+10 | Monthly Meeting
+15 | Research
+20 | Intra University Fest
+
+December | Activity
+--------------- | --------
+1 | Intra University Programming Contest
+10 | Monthly Meeting
+15 | Batch Performance
+20 | Hour of Code
 
 ## 7. Security
-DIU-CSE-CPC এর সকল নিরাপত্তা সংক্রান্ত বিষয় নিম্নোক্ত ধারা অনুযায়ী নির্ধারিত হবে – 
-  1. কোনো সদস্যের নাম, ইমেইল, রেজিস্ট্রেশন নম্বর, রোল নম্বর, ছবি, অর্জন প্রকাশ করা হবে না, যদি সদস্যের অনুমতি না থাকে।
-  2. কোনো সদস্যের একান্ত ব্যক্তিগত তথ্য যেমন ব্যাক্তিগত মোবাইল নম্বর, ন্যাশনাল আইডি নম্বর, বিকাশ পিন নম্বর, কোনো কিছুর পাসওয়ার্ড, এটিএম কার্ড নম্বর, ব্যাংক একাউন্ট নম্বর, SSH Key ইত্যাদি কখনই চাওয়া হবে না।
-  3. ক্লাবের উদ্দেশ্যে দেওয়া টাকা ও চাঁদার যথাযথ হিসাব পাওয়ার ক্ষমতা ক্লাবের সদস্যরা রাখেন। কমিটি প্রতিটা টাকার হিসাব দিতে বাধ্য থাকবে।
+  1. Without author's permission name, roll, batch, registration number, email address will not be published.
+  2. Mobile number, NID number, bKash PIN number, password, ATM card numebr, bank account number, SSH Key will not be collected. If any member want any of this in the name of our club, he/she will be punished.
+  3. All of the expense will be published publicly so that everybody can know about the proper use of money they giving to club.
