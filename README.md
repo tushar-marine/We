@@ -116,19 +116,24 @@ DIU-CSE-CPC একটা কমিউনিটি যা মূলত প্র�
 We have divided our tasks into 5 section. In each section there are multiple sub-section. The procedure of completing sub-section is divided into multiple tasks. 
  
 ### 1. Weekly
-  1. Online Meeting
+  1. **Online Meeting**
   
   Day | Time
   --- | ----
   Wednesday | 11:00 PM
   
-  ⦿ No Meeting While Eid/Puja
+  > No Meeting While Eid/Puja
+  ___
   
 ### 2. Monthly
-  1. অফলাইন মিটিং (প্রতি মাসের ৩০ বা ৩১ তারিখ, ফেব্রুয়ারির ২৮ বা ২৯ তারিখ।) 
-  ```
-  Procedure will be here
-  ```
+  1. **Offline Meeting** (প্রতি মাসের ৩০ বা ৩১ তারিখ, ফেব্রুয়ারির ২৮ বা ২৯ তারিখ।) 
+  Month | Day | Time
+  ----- | --- | ----
+  Every | 15th | Negotiable
+  
+  > Day can be change up-to 5 days after or before the listed day (15th).
+  ___
+  
 ### 3. Quarterly  
   1. যা করেছি লাস্ট সেমিস্টারে (প্রতি ব্যাচের পারফর্মেন্স) (এপ্রিল, আগস্ট, ডিসেম্বর)
   ```
