@@ -1,31 +1,29 @@
 # Terms & Conditions
 
-[📘Bangla](README-Bangla.md)
-
 ## 0. Introduction
 
 **DIU-CSE-CPC** is a open-source and non-profit organization of Dhaka International University what is working for making programming fun, easy, and creative among students of the institute. In the last several year this organization was about to build and work properly but finally in the year of 2019, July 28 Mr. Samrat Kumar Dey, Mr. Jilani Khandakar, Mr. Abu Sayed re-established a commitee by the help of honourable chairman Mr. Abdul Baset to run this organization properly. This brand new commitee has started their journey on 19 August, 2019. This is the very fisrt version of document which is applicable to present and all the future commitee.
 
 ### Doc Map
 
-- [Introduction](#introduction)
+- [Introduction](#0-introduction)
   - [Doc Map](#doc-map)
-- [Administration](#administration)
-  - [Setting Up and Changing Rules](#setting-up-and-changing-rules)
-  - [New Membership, Termination of Membership, Promotion, Demotion](#new-membership-termination-of-membership-promotion-demotion)
-  - [Registration and Fees](#registration-and-fees)
-  - [Duty of Committee Member](#duty-of-committee-member)
-- [Membership](#membership)
-  - [Must Have](#must-have)
-  - [Praiseworthy](#praiseworthy)
-  - [Should Not Have](#should-not-have)
-  - [Contribution](#contribution)
-  - [Communicate](#communicate)
-- [Termination of Membership](#termination-of-membership)
-- [We](#we)
-- [Instructions](#instructions)
-- [What We Have To Do](#what-we-have-to-do)
-- [Security](#security)
+- [Administration](#1-administration)
+  - [Setting Up and Changing Rules](#1-setting-up-and-changing-rules)
+  - [New Membership, Termination of Membership, Promotion, Demotion](#2-new-membership-termination-of-membership-promotion-demotion)
+  - [Registration and Fees](#3-registration-and-fees)
+  - [Duty of Committee Member](#4-duty-of-committee-member)
+- [Membership](#2-membership)
+  - [Must Have](#1-must-have)
+  - [Praiseworthy](#2-praiseworthy)
+  - [Should Not Have](3-#should-not-have)
+  - [Contribution](#4-contribution)
+  - [Communicate](#5-communicate)
+- [Termination of Membership](#3-termination-of-membership)
+- [We](#4-we)
+- [Instructions](#5-instructions)
+- [What We Have To Do](#6-what-we-have-to-do)
+- [Security](#7-security)
 
 ## 1. Administration
 
@@ -145,88 +143,112 @@ DIU-CSE-CPC একটা কমিউনিটি যা মূলত প্র�
 
 ## 6. What We Have To Do
 
-| January | Activity                              |
-| ------- | ------------------------------------- |
-| 1       | Opening Registration Form for Contest |
-| 10      | Monthly Meeting                       |
-| 15      | Guest Speaker                         |
-| 20      | Poster Presentation                   |
+## January
 
-| February | Activity                             |
-| -------- | ------------------------------------ |
-| 1        | Shortlist 50 Competitors for Contest |
-| 10       | Monthly Meeting                      |
-| 15       | Computer Science - What, How, Why    |
-| 20       | Intra Club Competition               |
+| Expected Date | Activity                              |
+| ------------- | ------------------------------------- |
+| 1             | Opening Registration Form for Contest |
+| 10            | Monthly Meeting                       |
+| 15            | Guest Speaker                         |
+| 20            | Poster Presentation                   |
 
-| March | Activity                 |
-| ----- | ------------------------ |
-| 1     | Individual Contest       |
-| 10    | Monthly Meeting          |
-| 15    | Shortlist 20 Competitors |
-| 20    | Batch Tour               |
+## February
 
-| April | Activity                     |
-| ----- | ---------------------------- |
-| 1     | Training Session for Contest |
-| 5     | Batch Performance            |
-| 10    | Monthly Meeting              |
-| 15    | Guidline for Career          |
-| 20    | Magazine                     |
+| Expected Date | Activity                             |
+| ------------- | ------------------------------------ |
+| 1             | Shortlist 50 Competitors for Contest |
+| 10            | Monthly Meeting                      |
+| 15            | Computer Science - What, How, Why    |
+| 20            | Intra Club Competition               |
 
-| May | Activity                  |
-| --- | ------------------------- |
-| 1   | Build 5 Teams for Contest |
-| 10  | Monthly Meeting           |
-| 15  | Club Project              |
+## March
 
-| June | Activity                             |
-| ---- | ------------------------------------ |
-| 1    | Intra University Programming Contest |
-| 10   | Monthly Meeting                      |
-| 15   | CV Collecting Event                  |
+| Expected Date | Activity                 |
+| ------------- | ------------------------ |
+| 1             | Individual Contest       |
+| 10            | Monthly Meeting          |
+| 15            | Shortlist 20 Competitors |
+| 20            | Batch Tour               |
 
-| July | Activity                              |
-| ---- | ------------------------------------- |
-| 1    | Opening Registration Form for Contest |
-| 10   | Monthly Meeting                       |
-| 15   | Guest Speaker                         |
-| 20   | Opensource                            |
+## April
 
-| August | Activity                             |
-| ------ | ------------------------------------ |
-| 1      | Shortlist 50 Competitors for Contest |
-| 10     | Monthly Meeting                      |
-| 15     | Batch Performance                    |
-| 20     | Computer Science - What, How, Why    |
-| 25     | Workshop                             |
+| Expected Date | Activity                     |
+| ------------- | ---------------------------- |
+| 1             | Training Session for Contest |
+| 5             | Batch Performance            |
+| 10            | Monthly Meeting              |
+| 15            | Guidline for Career          |
+| 20            | Magazine                     |
 
-| September | Activity                 |
-| --------- | ------------------------ |
-| 1         | Individual Contest       |
-| 10        | Monthly Meeting          |
-| 15        | Shortlist 20 Competitors |
-| 20        | Guideline for Career     |
+## May
 
-| October | Activity                     |
-| ------- | ---------------------------- |
-| 1       | Training Session for Contest |
-| 10      | Monthly Meeting              |
-| 15      | Techtober                    |
+| Expected Date | Activity                  |
+| ------------- | ------------------------- |
+| 1             | Build 5 Teams for Contest |
+| 10            | Monthly Meeting           |
+| 15            | Club Project              |
 
-| November | Activity                  |
-| -------- | ------------------------- |
-| 1        | Build 5 Teams for Contest |
-| 10       | Monthly Meeting           |
-| 15       | Research                  |
-| 20       | Intra University Fest     |
+## June
 
-| December | Activity                             |
-| -------- | ------------------------------------ |
-| 1        | Intra University Programming Contest |
-| 10       | Monthly Meeting                      |
-| 15       | Batch Performance                    |
-| 20       | Hour of Code                         |
+| Expected Date | Activity                             |
+| ------------- | ------------------------------------ |
+| 1             | Intra University Programming Contest |
+| 10            | Monthly Meeting                      |
+| 15            | CV Collecting Event                  |
+
+## July
+
+| Expected Date | Activity                              |
+| ------------- | ------------------------------------- |
+| 1             | Opening Registration Form for Contest |
+| 10            | Monthly Meeting                       |
+| 15            | Guest Speaker                         |
+| 20            | Opensource                            |
+
+## August
+
+| Expected Date | Activity                             |
+| ------------- | ------------------------------------ |
+| 1             | Shortlist 50 Competitors for Contest |
+| 10            | Monthly Meeting                      |
+| 15            | Batch Performance                    |
+| 20            | Computer Science - What, How, Why    |
+| 25            | Workshop                             |
+
+## September
+
+| Expected Date | Activity                 |
+| ------------- | ------------------------ |
+| 1             | Individual Contest       |
+| 10            | Monthly Meeting          |
+| 15            | Shortlist 20 Competitors |
+| 20            | Guideline for Career     |
+
+## October
+
+| Expected Date | Activity                     |
+| ------------- | ---------------------------- |
+| 1             | Training Session for Contest |
+| 10            | Monthly Meeting              |
+| 15            | Techtober                    |
+
+## November
+
+| Expected Date | Activity                  |
+| ------------- | ------------------------- |
+| 1             | Build 5 Teams for Contest |
+| 10            | Monthly Meeting           |
+| 15            | Research                  |
+| 20            | Intra University Fest     |
+
+## December
+
+| Expected Date | Activity                             |
+| ------------- | ------------------------------------ |
+| 1             | Intra University Programming Contest |
+| 10            | Monthly Meeting                      |
+| 15            | Batch Performance                    |
+| 20            | Hour of Code                         |
 
 ## 7. Security
 

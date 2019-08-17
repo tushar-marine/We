@@ -28,4 +28,4 @@ You can be part of them by perform minimum 10 successful contributions.
 
 | Serial No. | ID    |
 | ---------- | ----- |
-| 001        | 00000 |
+| 000        | 00000 |
