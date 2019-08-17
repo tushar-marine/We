@@ -53,12 +53,41 @@ Present and past commitee member is listed [here](CONTRIBUTING.md).
 
 ### 4. Duty of Commitee Member
 
-1. সভাপতিঃ সভাপতি সংগঠনের প্রধান। তিনি পদাধিকারবলে সকল সভায় সভাপতিত্ব করেন। সিদ্ধান্ত গ্রহনের ক্ষেত্রে তিনি ভোটদানের অধিকারি নন। তবে অচলাবস্থা নিরসনের জন্য তিনি কাস্টিং ভোট দিতে পারেন। সংগঠনের গঠনতন্ত্রের প্রতিটি ধারার যথাযথ প্রয়োগ নিশ্চিত করা তার দায়িত্ব।
-2. সহ-সভাপতিঃ সহ-সভাপতি সভাপতির সকল কাজে সহায়তা করেন। সভাপতির অনুপস্থিতিতে সহ-সভাপতি (একাধিক থাকলে ক্রমিক অনুসারে) সভাপতির দায়িত্ব ও ক্ষমতার অধিকারি হন। এ ছাড়াও তিনি তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।
-3. সাধারণ সম্পাদকঃ সাধারন সম্পাদক সংগঠনের প্রধান নির্বাহী কর্মকর্তা। তিনি সভাপতির পরামর্শক্রমে সংগঠনের সভা আহ্বান করেন। তিনি প্রয়োজনবোধে অন্যান্য কর্মকর্তার ওপর বিভিন্ন দায়িত্ব অর্পন করেন এবং তাদের কাজের মধ্যে সংযোগ ও সমন্বয় সাধন করেন। সংগঠনের দৈনন্দিন কার্যকলাপের জন্যে দায়ি থাকেন। প্রতিটি সভায় তিনি সংগঠনের কার্যাবলীর রিপোর্ট পেশ করেন।
-4. সহ-সাধারন সম্পাদকঃ তিনি সাধারন সম্পাদকের সকল কাজে সহায়তা করেন। সাধারন সম্পাদকের অনুপস্থিতিতে তিনি (ক্রমিক অনুসারে) সাধারন সম্পাদকের সকল দায়িত্ব ও ক্ষমতার অধিকারি হন। এছাড়াও তার উপর অর্পিত অন্যান্য দায়িত্ব পালন করেন।
-5. কোষাধক্ষঃ সংগঠনের যাবতীয় অর্থ তার মারফত ব্যাংকে জমা থাকে। তিনি প্রতিষ্ঠানের আয়-ব্যয়ের হিসাব রক্ষা ও প্রদান করেন। বিভিন্ন বিভাগের আয়-ব্যয়ের সমন্বয় করেন।
-6. Members: সংগঠনের কার্যকরী কমিটিতে একাধিক সদস্য থাকেন। তারা কার্যকরী কমিটি প্রদত্ত দায়িত্ব পালন করেন। একজন সদস্য তার কাজের জন্য কার্যকরী পরিষদের কাছে দায়ি থাকেন।
+**1. President:**
+
+- Head of the club.
+- Has right to call/cancel a meeting.
+- No right to vote.
+- Every events and projects must be operated by president.
+
+**2. Vice-President**
+
+- Head of the club during absence of president.
+- Has right to call/cancel a meeting on behalf of president.
+- Has right to vote.
+
+**3. General Secretary**
+
+- Organizes events and meeting.
+- Distributes duty to members.
+- Make and announce To-Do, Doing, Done reports.
+- Has right to vote.
+
+**4. Assistant General Secretory**
+
+- Perform duty of general secretary in absence of General Secretary.
+- Has right to vote.
+
+**5. Treauser**
+
+- Responsible for proper usage of money.
+- Make and announce money related reports.
+- Has right to vote.
+
+6. Members:
+
+- Responsible for performing given duties.
+- Has right to vote.
 
 ## 2. Membership
 
