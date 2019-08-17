@@ -1,10 +1,14 @@
-# Contributing
+# Administration
+
+[See General Member List](Members.md)
+
+---
 
 [2019](#2019) | [2020](#2020)
 
-## 2019
+---
 
-### Admin
+## 2019
 
 | ID     | Designation                 | Name                                            |
 | ------ | --------------------------- | ----------------------------------------------- |
@@ -28,10 +32,3 @@
 | 1-0017 | General Members             | [Rejaul Karim](Administration/1-0017.md)        |
 | 1-0018 | General Members             | [Saidur Islam](Administration/1-0018.md)        |
 | 1-0019 | General Members             | [Shahjahan Ali](Administration/1-0019.md)       |
-
-### General Members
-
-| ID     | Name                           | Year |
-| ------ | ------------------------------ | ---- |
-| 1-1000 | [Demo Name](Members/1-1000.md) | 2019 |
-| 1-1001 | [Demo Name](Members/1-1000.md) | 2019 |
