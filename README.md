@@ -53,38 +53,38 @@ Present and past commitee member is listed [here](CONTRIBUTING.md).
 
 ### 4. Duty of Commitee Member
 
-**1. President:**
+**President**
 
 - Head of the club.
 - Has right to call/cancel a meeting.
 - No right to vote.
 - Every events and projects must be operated by president.
 
-**2. Vice-President**
+**Vice-President**
 
 - Head of the club during absence of president.
 - Has right to call/cancel a meeting on behalf of president.
 - Has right to vote.
 
-**3. General Secretary**
+**General Secretary**
 
 - Organizes events and meeting.
 - Distributes duty to members.
 - Make and announce To-Do, Doing, Done reports.
 - Has right to vote.
 
-**4. Assistant General Secretory**
+**Assistant General Secretory**
 
 - Perform duty of general secretary in absence of General Secretary.
 - Has right to vote.
 
-**5. Treauser**
+**Treauser**
 
 - Responsible for proper usage of money.
 - Make and announce money related reports.
 - Has right to vote.
 
-6. Members:
+**Members**
 
 - Responsible for performing given duties.
 - Has right to vote.
@@ -118,57 +118,70 @@ After applying on online application form these variables will be checked strict
 
 ### 5. Communicate
 
-1. সদস্য যে ধরণের মেইল পেতে পারে
+1. Allowed mail to members
 
-   1. পরবর্তি মিটিং সম্পর্কিত
-   2. কোনো সময়সূচি পরিবর্তন সম্পর্কিত
-   3. কোনো গুরুত্বপূর্ণ ফাইল চেয়ে
+   1. About next meeting.
+   2. About any change of rules and scedule of events and meeting.
+   3. For important documents.
 
-2. সদস্য যে ধরনের মেইল পেতে পারবে না
-   1. পারসোনাল কন্টাক্ট নম্বর চেয়ে
-   2. কোনো ধরনের বিজ্ঞাপন
-   3. হুমকি মূলক
-   4. উত্তক্তকরণ
+2. Not allowed mail to members
+   1. Demanding personal contact number.
+   2. Any commercials and ads.
+   3. Threating.
+   4. Teasing.
 
 ## 3. Termination of Membership
 
-1. যৌন হয়রানি করলে (ছেলেকে বা মেয়েকে)
-2. চাঁদা বাধ্যতামূলক থাকার পরেও পর পর ৩ মাস চাঁদা না দিলে
-3. শারীরিক নির্যাতন করলে
-4. ক্লাবের গোপন প্রোজেক্ট যদি বাইরে প্রকাশ করা হয় ও প্রমাণ পাওয়া যায়।
+1. Any type of sexual harasment to any gender.
+2. Not giving fees for three times.
+3. Physical violance.
+4. Breaking the confidentiality of clubs information.
 
 ## 4. We
 
-DIU-CSE-CPC একটা কমিউনিটি যা মূলত প্রোগ্রামিংয়ে আগ্রহী করে তোলা, আগ্রহীদেরকে সাপোর্ট দেওয়া, ও কম্পিটিটিভ প্রোগ্রামিংকে জনপ্রিয় করার পিছনে কাজ করে। এই কমিউনিটিতে যে কোনো লিঙ্গের, বর্ণের, সংস্কৃতির, বয়সের পেশার, ধর্মের মানুষের গ্রহণযোগ্যতা আছে। আমরা বিশ্বাস করি যে সবাই শিক্ষানবিস। সময়, সুযোগ, প্রেরণা, ও অর্থের অভাবে কেউ সমানভাবে শিখতে পারেনি মানে এই না যে তার মধ্যে সেই শক্তি ও ক্ষমতা নেই।
+We are a community of, and in solidarity with, people from every gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, and background. We acknowledge that not everyone has the time, financial means, or capacity to actively participate, but we recognize and encourage involvement of all kinds. We facilitate and foster access and empowerment. We are all learners.
 
-1. আমরা কোড+অহংকারি (Code Snobs) নই। অর্থাৎ, যারা কোডিং এ দূর্বল বা জানে না তাদের তুলনায় নিজেদের স্পেশাল কিছু ভাবি না। সবাই স্পেশাল কিছু। তাই নিজেদের কোনো দক্ষতাকে ঐশ্বরিক ক্ষমতা ভাবি না।
-2. আমরা আমাদের কাজের জন্য আলোচিত হতে ও মন্তব্য পেতে ভালোবাসি।
-3. আমরা সব সময় নতুনদের আগমনে উৎসাহ দিই। আমরা মনে করি নতুনরা বা অদক্ষরা কমিউনিটিতে দক্ষ ও পুরাতনদের মতই গুরুত্বপূর্ণ।
-4. আমরা যে কোনো কাজ “পারফেক্ট” হওয়া অব্ধি চেষ্টা করে যেতে ভালোবাসি।
-5. যারা-ই সাহায্যপ্রার্থী, তারা-ই এখানে সাহায্য পাবে।
-6. আমরা শুনি। নতুন, পুরাতন, জানা, অজানা, সকল আগ্রহীদের কথা আমরা শুনি ও জানলে উত্তর দিই, না জানলে যে জানে তাকে রেফার করি।
-7. আমরা কেবল আগ্রহীদেরই জানাই না বা তাদের সাথে থাকিনা, বরং আমাদের কাজের দ্বারা যেন অন্যরা আগ্রহী হয় তেমন মনোভাব পোষণ করি।
-8. যখন আমরা ভুল করি, তখন আমরা ক্ষমাপ্রার্থনা করি, নিজেদের শুধরে নিই, ও লক্ষ্য রাখি যেন আমাদের দ্বারা এই ভুল না হয় আর।
-9. আমরা আমাদের উন্নতির উদ্দেশ্যে কাজ করে যাই।
-10. আমাদের কমিউনিটি সম্পূর্ণ উন্মুক্ত।
-11. কাউকে শারীরিক ও মানসিক আঘাত দেওয়া আমাদের কমিউনিটির পরিপন্থী।
-12. আমরা বিশ্বাস করি “এখনই ভবিষ্যৎ”।
+**In practice:**
+
+- We are not code snobs. We do not assume knowledge or imply there are things that somebody should know.
+- We insist on actively engaging with requests for feedback regardless of their complexity.
+- We welcome newcomers and prioritize the education of others. We strive to approach all tasks with the enthusiasm of a newcomer. Because we believe that newcomers are just as valuable in this effort as experts.
+- We consistently make the effort to actively recognize and validate multiple types of contributions.
+- We are always willing to offer help or guidance.
+
+**In times of conflict:**
+
+- We listen.
+- We clearly communicate while acknowledging other's feelings.
+- We admit when we're wrong, apologize, and accept responsibility for our actions.
+- We are continuously seeking to improve ourselves and our community.
+- We keep our community respectful and open.
+- We make everyone feel heard.
+- We are mindful and kind in our interactions.
+
+**In the future:**
+
+- The future is now.
 
 ## 5. Instructions
 
-নিম্নোক্ত বিষয়গুলো শক্তভাবে দেখা হবেঃ
+Be mindful of your language. Any of the following behavior is unacceptable:
 
-1. কোনো ধরনের মন্তব্য (অনলাইন বা অফলাইন) তা যদি কোনো জাতি, ধর্ম, বর্ণকে মানসিকভাবে আঘাত করে।
-2. যে কোন ধরণের হুমকি।
-3. উত্তক্তকরণ।
-4. কাউকে অযাচিতভাবে লক্ষ্য করা।
+- Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
+- Threats of violence
+- Deliberate intimidation
+- Sexually explicit or violent material
+- Unwelcome sexual attention
+- Stalking or following Or any other kinds of harassment
 
-এছাড়া -
+Also -
 
-- সোশ্যাল মিডিয়ার এক্টিভিটির ব্যাপারে সতর্ক থাকবেন। যদি কোনো ধরণের ব্যাপার সরাসরি ক্লাবের বিপক্ষে যায়, তা মিটিংএর মাধ্যমে সমাধান করবেন।
-- প্রত্যেকের দৃষ্টিভঙ্গি আলাদা। আলাদা আলাদা দিক থেকে একই বিষয় আলাদা দেখাবে এটাই স্বাভাবিক। তাই প্রথম দেখাতেই কিছুর বিচার করে ফেলবেন না।
-- আপনার কোনো কন্ট্রিবিউশন যেন বিশ্ববিদ্যালয় ও ক্লাবের বিপক্ষে কাজ না করে যেদিকে লক্ষ্য রাখবেন।
-- সব সময় চেষ্টা করবেন শেখার মানসিকতা রাখতে। ভুল করলে উত্তেজিত হবেন না। ঠাণ্ডা থাকবেন ও শিখবেন।
+- Use your best judgement. If it will possibly make others uncomfortable, do not post it.
+- Be respectful. Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
+- Be considerate. Think about how your contribution will affect others in the community.
+- Be open minded. Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
+
+If you believe someone is violating the code of conduct, we ask that you report it by emailing contact@lifeoflikhon.com. Please include your name and a description of the incident, and we will get back to you as soon as possible.
 
 ## 6. What We Have To Do
 
