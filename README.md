@@ -181,7 +181,7 @@ Also -
 - Be considerate. Think about how your contribution will affect others in the community.
 - Be open minded. Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 
-If you believe someone is violating the code of conduct, we ask that you report it by emailing contact@lifeoflikhon.com. Please include your name and a description of the incident, and we will get back to you as soon as possible.
+If you believe someone is violating the code of conduct, we ask that you report it by emailing mehedi.hasansjs@gmail.com . Please include your name and a description of the incident, and we will get back to you as soon as possible.
 
 ## 6. What We Have To Do
 
