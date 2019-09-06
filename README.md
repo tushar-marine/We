@@ -109,12 +109,12 @@ After applying on online application form these variables will be checked strict
 
 1. Irresponsibility
 
-- [Membership Form](https://www.sites.google.com/view/diu-cse-cpc)
+- [Membership Form](https://forms.gle/9LM3M8bgne8kyxME8)
 
 ### 4. Contribution
 
-1. Every member must contribute 100 BDT at joining date.
-2. Members who have more than 10 contributions will be marked as '[Star Member](Star-Member.md)'.
+1. Members may have to contribute little amount of money anually.
+2. Members must have to contribute to club by volunteering.
 
 ### 5. Communicate
 
