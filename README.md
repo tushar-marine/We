@@ -22,8 +22,7 @@
 - [Termination of Membership](#3-termination-of-membership)
 - [We](#4-we)
 - [Instructions](#5-instructions)
-- [What We Have To Do](#6-what-we-have-to-do)
-- [Security](#7-security)
+- [Security](#6-security)
 
 ## 1. Administration
 
@@ -183,11 +182,7 @@ Also -
 
 If you believe someone is violating the code of conduct, we ask that you report it by emailing mehedi.hasansjs@gmail.com . Please include your name and a description of the incident, and we will get back to you as soon as possible.
 
-## 6. What We Have To Do
-
-[See To-Do for more](to-do.md)
-
-## 7. Security
+## 6. Security
 
 1. Without author's permission name, roll, batch, registration number, email address will not be published.
 2. Mobile number, NID number, bKash PIN number, password, ATM card numebr, bank account number, SSH Key will not be collected. If any member want any of this in the name of our club, he/she will be punished.
