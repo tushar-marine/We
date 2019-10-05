@@ -2,7 +2,7 @@
 
 ## 0. Introduction
 
-**DIU-CSE-CPC** is a open-source and non-profit organization of Dhaka International University what is working for making programming fun, easy, and creative among students of the institute. In the last several year this organization was about to build and work properly but finally in the year of 2019, July 28 Mr. Samrat Kumar Dey, Mr. Jilani Khandakar, Mr. Abu Sayed re-established a commitee by the help of honourable chairman Mr. Abdul Baset to run this organization properly. This brand new commitee has started their journey on 19 August, 2019. This is the very fisrt version of document which is applicable to present and all the future commitee.
+**DIU-CSE-CPC** is an open-source and non-profit organization of Dhaka International University what is working for making programming fun, easy, and creative among students of the institute. In the last several years this organization was about to build and work properly but finally in the year of 2019, July 28 Mr. Samrat Kumar Dey, Mr. Jilani Khandakar, Mr. Abu Sayed re-established a committee by the help of honorable chairman Mr. Abdul Baset to run this organization properly. This brand new committee has started their journey on 19 August, 2019. This is the very first version of document which is applicable to present and all the future committee.
 
 ### Doc Map
 
@@ -26,16 +26,16 @@
 
 ## 1. Administration
 
-Present and past commitee member is listed [here](CONTRIBUTING.md).
+Present and past committee member is listed [here](CONTRIBUTING.md).
 
 ### 1. Setting Up and Changing Rules
 
-1. Anyone can propose idea and plan for commitee and organization by General Secretory on any offline meeting. The mehodology of accepting and rejecting system is demonetisated below -
+1. Anyone can propose idea and plan for committee and organization by General Secretory on any offline meeting. The methodology of accepting and rejecting system is demonstrated below -
 
 | Vote (%) | Action      |
 | -------- | ----------- |
 | <60      | ❌ Rejected |
-| 60-90    | ❗️Review   |
+| 60-90    | ❗️ Review   |
 | 90+      | ✅ Accepted |
 
 2. Rules can be created, modified, and removed only and only on offline meeting.
@@ -48,9 +48,9 @@ Present and past commitee member is listed [here](CONTRIBUTING.md).
 ### 3. Registration and Fees
 
 1. Committee has power to increase and decrease amount of fees.
-2. Committe can collect member and stop collecting member in any time.
+2. Committee can collect member and stop collecting member in any time.
 
-### 4. Duty of Commitee Member
+### 4. Duty of Committee Member
 
 **President**
 
@@ -77,7 +77,7 @@ Present and past commitee member is listed [here](CONTRIBUTING.md).
 - Perform duty of general secretary in absence of General Secretary.
 - Has right to vote.
 
-**Treauser**
+**Treasurer**
 
 - Responsible for proper usage of money.
 - Make and announce money related reports.
@@ -96,12 +96,12 @@ After applying on online application form these variables will be checked strict
 
 1. Applicant must include full academic name.
 2. Applicant must have a [GitHub](https://github.com) account.
-3. Applicant must have a authentic email address.
+3. Applicant must have an authentic email address.
 
 ### 2. Praiseworthy
 
-1. Applicant should have the havit of ask questions.
-2. Accountability is greate havit!
+1. Applicant should have the habit of ask questions.
+2. Accountability is great habit!
 3. Mentality to speak humanly on online platform.
 
 ### 3. Should Not Have
@@ -112,7 +112,7 @@ After applying on online application form these variables will be checked strict
 
 ### 4. Contribution
 
-1. Members may have to contribute little amount of money anually.
+1. Members may have to contribute little amount of money annually.
 2. Members must have to contribute to club by volunteering.
 
 ### 5. Communicate
@@ -120,7 +120,7 @@ After applying on online application form these variables will be checked strict
 1. Allowed mail to members
 
    1. About next meeting.
-   2. About any change of rules and scedule of events and meeting.
+   2. About any change of rules and schedule of events and meeting.
    3. For important documents.
 
 2. Not allowed mail to members
@@ -131,10 +131,10 @@ After applying on online application form these variables will be checked strict
 
 ## 3. Termination of Membership
 
-1. Any type of sexual harasment to any gender.
+1. Any type of sexual harassment to any gender.
 2. Not giving fees for three times.
-3. Physical violance.
-4. Breaking the confidentiality of clubs information.
+3. Physical violence.
+4. Breaking the confidentiality of clubs' information.
 
 ## 4. We
 
@@ -171,7 +171,7 @@ Be mindful of your language. Any of the following behavior is unacceptable:
 - Deliberate intimidation
 - Sexually explicit or violent material
 - Unwelcome sexual attention
-- Stalking or following Or any other kinds of harassment
+- Stalking or following or any other kinds of harassment
 
 Also -
 
@@ -185,5 +185,5 @@ If you believe someone is violating the code of conduct, we ask that you report 
 ## 6. Security
 
 1. Without author's permission name, roll, batch, registration number, email address will not be published.
-2. Mobile number, NID number, bKash PIN number, password, ATM card numebr, bank account number, SSH Key will not be collected. If any member want any of this in the name of our club, he/she will be punished.
+2. Mobile number, NID number, bKash PIN number, password, ATM card number, bank account number, SSH Key will not be collected. If any member wants any of these in the name of our club, he/she will be punished.
 3. All of the expense will be published publicly so that everybody can know about the proper use of money they giving to club.
