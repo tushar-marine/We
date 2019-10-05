@@ -5,10 +5,10 @@ President | Mehedi Hasan Likhon
 Vice President | Arifuzzaman Tushar
 Vice President | Bashar Ovi
 Vice President | Amdadul Haque
-Treausurer | Rownak Borhan Himel
-General Secratory | S.M. fazla Rabbi
-Assistant General Secratory | Md. Shahjahan Ali
-Assistant General Secratory | Rajaul Karim
+Treasurer | Rownak Borhan Himel
+General Secretory | S.M. fazla Rabbi
+Assistant General Secretory | Md. Shahjahan Ali
+Assistant General Secretory | Rajaul Karim
 Executive Member | Rahat Kabir
 Executive Member | Marzan Islam
 Executive Member | Sabuj Kumer Das
